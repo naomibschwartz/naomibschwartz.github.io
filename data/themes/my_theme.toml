@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Forest"
+
+[light]
+  # Primary
+  primary = "#4a7c59"
+
+  # Menu
+  menu_primary = "#4a7c59"
+  menu_text = "#eaf7e4"
+  menu_text_active = "#c8d5b9"
+  menu_title = "#eaf7e4"
+
+  # Backgrounds
+  background = "#eaf7e4"
+  home_section_odd = "#eaf7e4"
+  home_section_even = "#eaf7e4"
+
+  # Font
+  google_fonts = "family=Sarabun"
