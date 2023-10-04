@@ -5,16 +5,51 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: |
-        Schwartz Geospatial Ecology Lab
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      slides:
+      - title: Welcome to the <br> Schwartz Geospatial Ecology Lab!
+        align: center
+        background:
+          image:
+            filename: Forest.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#333'
+      - title: Who We Are
+        content: Climate and land-use change are altering the frequency and intensity of disturbance and climate extremes. Our Lab uses remote sensing and GIS, combined with field research methods, to address questions about the causes and consequences of disturbance and extreme events in forest landscapes.
+        align: left
+        background:
+          image:
+            filename: TallGrass.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Learn More about Our Research
+        content: 
+        align: right
+        background:
+          image:
+            filename: WilliamsLake_droneshot.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
   
   - block: collection
     content:
@@ -34,33 +69,5 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+      
 ---

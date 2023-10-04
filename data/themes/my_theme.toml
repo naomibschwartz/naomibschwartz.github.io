@@ -3,18 +3,15 @@ name = "Forest"
 
 [light]
   # Primary
-  primary = "#4a7c59"
+  primary = "#5a6751"
 
   # Menu
-  menu_primary = "#4a7c59"
-  menu_text = "#eaf7e4"
-  menu_text_active = "#c8d5b9"
-  menu_title = "#eaf7e4"
+  menu_primary = "#5a6751"
+  menu_text = "#eaede8"
+  menu_text_active = "#97a58d"
+  menu_title = "#eaede8"
 
   # Backgrounds
-  background = "#eaf7e4"
-  home_section_odd = "#eaf7e4"
-  home_section_even = "#eaf7e4"
-
-  # Font
-  google_fonts = "family=Sarabun"
+  background = "#eaede8"
+  home_section_odd = "#eaede8"
+  home_section_even = "#eaede8"
