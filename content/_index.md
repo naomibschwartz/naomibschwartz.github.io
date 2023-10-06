@@ -19,7 +19,7 @@ sections:
           color: '#333'
       - title: Who We Are
         content: Climate and land-use change are altering the frequency and intensity of disturbance and climate extremes. Our Lab uses remote sensing and GIS, combined with field research methods, to address questions about the causes and consequences of disturbance and extreme events in forest landscapes.
-        align: left
+        align: center
         background:
           image:
             filename: TallGrass.png
@@ -29,7 +29,7 @@ sections:
           color: '#555'
       - title: Learn More about Our Research
         content: 
-        align: right
+        align: center
         background:
           image:
             filename: WilliamsLake_droneshot.png
