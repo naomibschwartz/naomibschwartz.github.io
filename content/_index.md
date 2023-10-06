@@ -27,8 +27,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Learn More about Our Research
-        content: 
+      - title: Our Research
+        content: Our lab addresses questions about the causes and consequences of disturbance and extreme events in forest landscapes, mostly in tropical regions. Climate and land-use change are already altering the frequency and intensity of disturbance and climate extremes. To address these themes, we use a variety of tools including remote sensing and GIS, forest censuses, plant functional trait measurements, and socio-economic surveys.
         align: center
         background:
           image:
@@ -38,10 +38,10 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: seedling
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Check Out Our Projects
+          url: ../research/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
