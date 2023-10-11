@@ -16,6 +16,9 @@ main:
   - name: News
     url: post
     weight: 40
+  - name: Lab Resources
+    url: lab-resources
+    weight: 50
   - name: Join Us!
     url: contact
-    weight: 50
+    weight: 60
