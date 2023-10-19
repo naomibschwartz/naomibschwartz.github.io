@@ -25,9 +25,24 @@ sections:
         padding: ["20px", "0", "20px", "0"]
         
   - block: markdown
+    id: intro
+    content:
+      title: Study Sites
+      text: <iframe 
+        width='100%' height='400px'
+        src="https://api.mapbox.com/styles/v1/kmcguire33/clnns3c0000tj01pnekud4j6q.html?title=false&access_token=pk.eyJ1Ijoia21jZ3VpcmUzMyIsImEiOiJjbG5ucnp1em0wNzJrMnNwZ2ZyYTg2dTY4In0.TuyTQQVMp_TFZkj57EbkGg&zoomwheel=false#1.61/22.9/-13.6" 
+        title="schwartz-map" 
+        style="border:none;">
+        </iframe>
+    design:
+      columns: '1'
+      spacing:
+        padding: ["20px", "0", "10px", "0"]
+        
+  - block: markdown
     id: active-projects-1
     content:
-      title: Active Projects
+      title: Current Projects
       text: |-
         ## **Savanna-Forest Boundaries in a Seasonally Dry Tropical Landscape**
         We are working to understand the ecological processes that maintain boundaries between forests and mesic savannas in seasonally dry tropical landscapes. Our work focuses on Southeast Asia, where deciduous dipterocarp savannas and dry evergreen forests form patchy landscape mosaics with abrupt transitions between vegetation types. We are using remote sensing, field data, and modeling to quantify the influence of climate variability and land use on fire regimes in this landscape and to identify key feedbacks between fire, soil conditions, and vegetation structure and function at boundaries between vegetation types.
@@ -60,7 +75,7 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ["20px", "0", "20px", "0"]  
+        padding: ["20px", "0", "30px", "0"]
         
   - block: markdown
     id: past-projects
@@ -98,23 +113,4 @@ sections:
         padding: ["20px", "0", "20px", "0"]
 ---
 
-# - block: portfolio
-#    id: projects
-#    content:
-#      title: Active Projects
-#      subtitle: 
-#      filters:
-#        folders:
-#          - research
-#        # Only show content with these tags
-#        tags: []
-#        # Exclude content with these tags
-#        exclude_tags: []
-#        kinds:
-#          - page
-#    design:
-#      columns: '1'
-#      view: showcase
-#      flip_alt_rows: false
-#      spacing:
-#        padding: ["15px", "0", "15px", "0"]
+# option to add 🌱 to title (kinda looks weird tho)
