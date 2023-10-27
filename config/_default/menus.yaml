@@ -16,8 +16,8 @@ main:
   - name: News
     url: post
     weight: 40
-  - name: Lab Resources
-    url: lab-resources
+  - name: Lab Wiki
+    url: https://kmcguire33.github.io/schwartz-wiki.github.io/
     weight: 50
   - name: Join Us!
     url: contact
