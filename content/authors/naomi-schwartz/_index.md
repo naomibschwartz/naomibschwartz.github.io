@@ -25,15 +25,15 @@ interests:
 
 education:
   courses:
-    - course: Doctor of Philosophy
+    - course: PhD in Ecology, Evolution, and Environmental Biology
       institution: Columbia University
       year: 2017
-    - course: Master of Science
+    - course: MSc in Ecology
       institution: University of North Carolina-Chapel Hill
-      year:
-    - course: Bachelor of Arts
+      year: 2012
+    - course: BA in Environmental Science and Policy
       institution: Duke University
-      year:
+      year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
