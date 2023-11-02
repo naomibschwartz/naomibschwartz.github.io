@@ -59,7 +59,7 @@ email: 'georgepf@student.ubc.ca'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Current Lab Members
 ---
 
 George is interested in calculating how countries are doing their job as carbon sequesters, whether tackling deforestation or supporting reforestation. He has worked for the Brazilian Institute for Environment (IBAMA) since 2003. He had lived for five years in the Brazilian Amazon when he conducted environmental law enforcement activities. He also created and led the Center for Environmental Monitoring and Information (CENIMA) at IBAMA Headquarters. In his spare time, he loves to be with his family in touch with nature by riding a bike, sailing, rock climbing, and snowboarding.

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student 
+role: MSc, now PhD Student at National University of Singapore
 
 # Organizations/Affiliations
 organizations:
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+    - course: MSc in Geography
+      institution: University of British Columbia
+      year: 
     - course: BSc in Biology
       institution: Bandung Institute of Technology
       year: 

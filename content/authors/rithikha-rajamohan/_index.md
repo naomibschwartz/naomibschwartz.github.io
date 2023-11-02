@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Student
+role: Former BSc, now MSc at Rutgers University 
 
 # Organizations/Affiliations
 organizations:

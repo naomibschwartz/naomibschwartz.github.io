@@ -3,14 +3,14 @@
 title: Naomi B Schwartz
 
 # Full Name (for SEO)
-first_name: Naomi
+first_name: Naomi B
 last_name: Schwartz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor (Principal Investigator)
 
 # Organizations/Affiliations
 organizations:
@@ -48,7 +48,7 @@ social:
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=c0mrv9IAAAAJ&sortby=pubdate
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/naomibschwartz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +63,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Principal Investigator
+  - Current Lab Members
 ---
 
 Broadly, Dr. Schwartz's research focuses on the relationships between climate, disturbance, and vegetation and how they are influenced by human activities in tropical biomes. She's interested in how we can use remote sensing and other geospatial approaches to better understand ecosystems at landscape to regional scales. She also think a lot about tropical second growth forests, and the ecological and social factors that will influence how much they help us with climate change mitigation. Originally from the east coast, she has quickly adjusted to BC life, where she loves spending time outdoors with her dog, Lemmy.

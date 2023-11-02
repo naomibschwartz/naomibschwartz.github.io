@@ -53,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Current Lab Members
 ---
 
 Sabrina is an undergraduate student who has been a Research Assistant for the past two summers at the Schwartz Lab. Growing up in Malaysia, she thinks a lot about tropical rainforests and how they change. In her spare time, you can find her crafting, climbing, coffee-making, and breaking patterns of alliteration.

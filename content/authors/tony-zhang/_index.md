@@ -54,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Current Lab Members
 ---
 
 Tony is interested in using remote sensing technology to study forest disturbance dynamics, combining his GIS background with an interest in native plants. His project explores new approaches to mapping fire refugia within BC forests, to better understand how these ecologically important areas affect forest regeneration after fires. Tony is also part of the Geography department at Langara College where he works as a lab instructor. Some of his hobbies include reading historical fiction, making cheesecakes, and growing colourful vegetables in his garden.

@@ -54,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Current Lab Members
 ---
 
 Vanessa earned a Bachelor’s degree in Geography/Environmental Studies from the University of California, Los Angeles in 2019. Before coming to UBC, she worked as a scientific programmer at the NASA Goddard Space Flight Center, providing visualization and computation support to earth system and atmosphere climate models. She is interested in modeling land-atmosphere exchanges and projecting responses of wetland and forested ecosystems to climate change with geospatial and remote sensing data. In her free time, she enjoys live music, reading fantasy & sci-fi, and snowboarding.

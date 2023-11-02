@@ -53,7 +53,7 @@ email: 'jg1121@student.ubc.ca'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Current Lab Members
 ---
 
 Jenny joined the Schwartz Lab in Fall 2022 as a MSc student in Geography and is primarily advised by Dr. Kaitlyn Gaynor in Zoology. She is working with wildlife managers in Yosemite National Park to analyze black bear behavior (including their home ranges, habitat selection, activity budgets, diel activity, and corridor use) in relation to human disturbance, to do so, she is using GPS collar data and GIS map layers of environmental features and human development. She strives to do research that could ultimately improve human-wildlife coexistence in human-dominated landscapes. When she’s not in school or in the field she enjoys hiking, birdwatching, climbing, and attempting to ski!

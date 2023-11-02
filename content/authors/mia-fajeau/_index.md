@@ -54,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Current Lab Members
 ---
 
 As a previous undergraduate in the lab, and current MSc candidate, Mia is interested in various applications of GIS specifically in regards to the social and environmental effects of climate change in both urban and natural landscapes, where she applied terrestrial laser scanning to measure vegetation structure at forest-savanna boundaries. Outside of this, Mia loves to spend time outdoors, listen to music, and craft at home.
