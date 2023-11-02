@@ -4,7 +4,7 @@ title: 'Impacts of climate variability on tree demography in second growth tropi
   
 authors:
 - Marı́a Uriarte
-- admin
+- Naomi B Schwartz
 - Jennifer S Powers
 - Erika Mar\ń-Spiotta
 - Wenying Liao
@@ -23,16 +23,7 @@ publication: '*Biotropica*'
 
 abstract: As global climatic changes increase plant susceptibility to large-scale disturbances such as drought and pathogens, understory responses to these disturbances will become increasingly important to long-term forest dynamics. To better understand understory responses to canopy disturbance, we measured changes in the growth and physiology of the dominant understory shrub, American witch-hazel (Hamamelis virginiana L.), in response to girdling of canopy oaks in a temperate hardwood forest of the northeastern United States. Changes in the growth and physiology of H. virginiana may be important to the regeneration of northeastern temperate forests, as this common shrub largely shapes the microenvironment for seedlings on the forest floor where it occurs. Canopy disturbance by girdling resulted in significant increases in light and soil nitrogen availability. In response to these environmental changes, basal-area growth of H. virginiana increased by an average 334%. This growth increase corresponded to significant increases in foliar nitrogen, respiration, and leaf chlorophyll and carotenoid concentrations. These findings indicate improved environmental conditions and increased growth for this understory shrub following the loss of dominant canopy trees. This study suggests that following large-scale canopy disturbance, H. virginiana and shrubs like it may play an important role in competing for soil N and shading seedlings of regenerating canopy species.
 
-links:
-  - name: Access Article
-  - url: 'https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12380'
+url_source: 'https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12380'
 url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/btp.12380'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 ---

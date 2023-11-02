@@ -13,7 +13,7 @@ authors:
 - Luis Felipe Arreola Villa
 - Patricia Balvanera
 - Justin M Becknell
-- admin
+- Naomi B Schwartz
 - ' others'
 
 date: '2019-01-01'
@@ -29,16 +29,6 @@ publication: '*Nature ecology & evolution*'
 
 abstract: Tropical forests are converted at an alarming rate for agricultural use and pastureland, but also regrow naturally through secondary succession. For successful forest restoration, it is essential to understand the mechanisms of secondary succession. These mechanisms may vary across forest types, but analyses across broad spatial scales are lacking. Here, we analyse forest recovery using 1,403 plots that differ in age since agricultural abandonment from 50 sites across the Neotropics. We analyse changes in community composition using species-specific stem wood density (WD), which is a key trait for plant growth, survival and forest carbon storage. In wet forest, succession proceeds from low towards high community WD (acquisitive towards conservative trait values), in line with standard successional theory. However, in dry forest, succession proceeds from high towards low community WD (conservative towards acquisitive trait values), probably because high WD reflects drought tolerance in harsh early successional environments. Dry season intensity drives WD recovery by influencing the start and trajectory of succession, resulting in convergence of the community WD over time as vegetation cover builds up. These ecological insights can be used to improve species selection for reforestation. Reforestation species selected to establish a first protective canopy layer should, among other criteria, ideally have a similar WD to the early successional communities that dominate under the prevailing macroclimatic conditions.
 
-links:
-  - name: Access Article
-  - url: 'https://www.nature.com/articles/s41559-019-0882-6'
-url_pdf: '#'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: 'https://www.nature.com/articles/s41559-019-0882-6'
 
 ---

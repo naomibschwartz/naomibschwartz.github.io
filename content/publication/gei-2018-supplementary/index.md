@@ -13,7 +13,7 @@ authors:
 - José Luis Andrade
 - Patricia Balvanera
 - Justin M Becknell
-- admin
+- Naomi B Schwartz
 - ' others'
 
 date: '2018-01-01'
@@ -27,16 +27,6 @@ publication_types: ['2']
 
 publication: '*Nature Ecology & Evolution*'
 
-links:
-  - name: Access Article
-  - url: 'https://repositorio.usp.br/item/003136547'
-url_pdf: '#'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: 'https://repositorio.usp.br/item/003136547'
 
 ---

@@ -12,7 +12,7 @@ authors:
 - Tony V Bentos
 - Pedro HS Brancalion
 - George AL Cabral
-- admin
+- Naomi B Schwartz
 - ' others'
 
 date: '2019-01-01'
@@ -28,16 +28,7 @@ publication: '*Science advances*'
 
 abstract: Old-growth tropical forests harbor an immense diversity of tree species but are rapidly being cleared, while secondary forests that regrow on abandoned agricultural lands increase in extent. We assess how tree species richness and composition recover during secondary succession across gradients in environmental conditions and anthropogenic disturbance in an unprecedented multisite analysis for the Neotropics. Secondary forests recover remarkably fast in species richness but slowly in species composition. Secondary forests take a median time of five decades to recover the species richness of old-growth forest (80% recovery after 20 years) based on rarefaction analysis. Full recovery of species composition takes centuries (only 34% recovery after 20 years). A dual strategy that maintains both old-growth forests and species-rich secondary forests is therefore crucial for biodiversity conservation in human-modified tropical landscapes.
 
-links:
-  - name: Access Article
-  - url: 'https://www.science.org/doi/full/10.1126/sciadv.aau3114'
+url_source: 'https://www.science.org/doi/full/10.1126/sciadv.aau3114'
 url_pdf: 'https://www.science.org/doi/pdf/10.1126/sciadv.aau3114'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 ---

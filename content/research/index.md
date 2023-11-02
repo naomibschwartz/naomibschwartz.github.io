@@ -72,6 +72,10 @@ sections:
       text: |-
         ## **Impacts of Rainfall Seasonality on Tropical Forest Composition, Function, and Drought Response**
         Rainfall regimes vary across many axes beyond just total annual rainfall, including number of dry seasons, onset and duration of the dry season, and contrast between wet and dry seasons, among others. We are working to link herbarium collections and satellite remote sensing data to investigate how rainfall seasonality influences variation in plant water-use strategies and how these differences scale up to influence productivity and other ecosystem processes in seasonally dry tropical forests (SDTF). We are also interested in how average seasonality is associated with how vulnerable or resilient forests are to drought.
+        
+        Relevant Publications: <br>
+        * *[Beyond MAP: A guide to dimensions of rainfall variability for tropical ecology]({{< relref "/publication/schwartz-2020-beyond" >}})*
+    
     design:
       columns: '1'
       spacing:

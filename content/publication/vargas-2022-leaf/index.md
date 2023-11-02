@@ -13,7 +13,7 @@ authors:
 - Laura Toro
 - Ariadna Mondragón-Botero
 - Jesús N Pinto-Ledezma
-- admin
+- Naomi B Schwartz
 - ' others'
 
 date: '2022-01-01'
@@ -29,16 +29,7 @@ publication: '*Ecology letters*'
 
 abstract: Considering the global intensification of aridity in tropical biomes due to climate change, we need to understand what shapes the distribution of drought sensitivity in tropical plants. We conducted a pantropical data synthesis representing 1117 species to test whether xylem‐specific hydraulic conductivity (KS), water potential at leaf turgor loss (ΨTLP) and water potential at 50% loss of KS (ΨP50) varied along climate gradients. The ΨTLP and ΨP50 increased with climatic moisture only for evergreen species, but KS did not. Species with high ΨTLP and ΨP50 values were associated with both dry and wet environments. However, drought‐deciduous species showed high ΨTLP and ΨP50 values regardless of water availability, whereas evergreen species only in wet environments. All three traits showed a weak phylogenetic signal and a short half‐life. These results suggest strong environmental controls on trait variance, which in turn is modulated by leaf habit along climatic moisture gradients in the tropics.
 
-links:
-  - name: Access Article
-  - url: 'https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14128'
+url_source: 'https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14128'
 url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.14128'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 ---

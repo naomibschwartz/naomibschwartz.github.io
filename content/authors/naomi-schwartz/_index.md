@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Naomi B. Schwartz
+title: Naomi B Schwartz
 
 # Full Name (for SEO)
 first_name: Naomi
@@ -66,4 +66,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Broadly, my research focuses on the relationships between climate, disturbance, and vegetation and how they are influenced by human activities in tropical biomes. I’m interested in how we can use remote sensing and other geospatial approaches to better understand ecosystems at landscape to regional scales. I also think a lot about tropical second growth forests, and the ecological and social factors that will influence how much they help us with climate change mitigation. Originally from the east coast, I’ve quickly adjusted to BC life, where I love spending time outdoors with my dog, Lemmy.
+Broadly, Dr. Schwartz's research focuses on the relationships between climate, disturbance, and vegetation and how they are influenced by human activities in tropical biomes. She's interested in how we can use remote sensing and other geospatial approaches to better understand ecosystems at landscape to regional scales. She also think a lot about tropical second growth forests, and the ecological and social factors that will influence how much they help us with climate change mitigation. Originally from the east coast, she has quickly adjusted to BC life, where she loves spending time outdoors with her dog, Lemmy.
