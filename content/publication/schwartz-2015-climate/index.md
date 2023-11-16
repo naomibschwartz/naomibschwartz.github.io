@@ -10,6 +10,8 @@ authors:
 - Ruth DeFries
 - Katia Fernandes
 - Miguel A Pinedo-Vasquez
+author_notes:
+- "Current Lab PI"
 
 date: '2015-01-01'
 publishDate: '2023-10-27T20:06:18.000569Z'

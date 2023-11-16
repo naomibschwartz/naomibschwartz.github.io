@@ -3,17 +3,10 @@ title: 'Biodiversity recovery of Neotropical secondary forests'
 
 authors:
 - Danaë MA Rozendaal
-- Frans Bongers
-- T Mitchell Aide
-- Esteban Alvarez-Dávila
-- Nataly Ascarrunz
-- Patricia Balvanera
-- Justin M Becknell
-- Tony V Bentos
-- Pedro HS Brancalion
-- George AL Cabral
-- Naomi B Schwartz
-- ' others'
+- 'and many others + Naomi B Schwartz'
+author_notes:
+- 
+- "Current Lab PI"
 
 date: '2019-01-01'
 publishDate: '2023-10-27T20:06:17.895664Z'

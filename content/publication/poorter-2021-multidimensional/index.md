@@ -3,17 +3,10 @@ title: 'Multidimensional tropical forest recovery'
 
 authors:
 - Lourens Poorter
-- Dylan Craven
-- Catarina C Jakovac
-- Masha T Van Der Sande
-- Lucy Amissah
-- Frans Bongers
-- Robin L Chazdon
-- Caroline E Farrior
-- Stephan Kambach
-- Jorge A Meave
-- Naomi B Schwartz
-- ' others'
+- 'and many others + Naomi B Schwartz'
+author_notes:
+- 
+- "Current Lab PI"
 
 date: '2021-01-01'
 publishDate: '2023-10-27T20:06:17.884803Z'

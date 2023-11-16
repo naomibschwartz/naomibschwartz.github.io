@@ -4,17 +4,10 @@ title: 'Wet and dry tropical forests show opposite successional pathways in wood
   
 authors:
 - Lourens Poorter
-- Danaë MA Rozendaal
-- Frans Bongers
-- Jarcilene S de Almeida-Cortez
-- Angélica Marı́a Almeyda Zambrano
-- Francisco S Álvarez
-- José Lu\ś Andrade
-- Luis Felipe Arreola Villa
-- Patricia Balvanera
-- Justin M Becknell
-- Naomi B Schwartz
-- ' others'
+- 'and many others + Naomi B Schwartz'
+author_notes:
+- 
+- "Current Lab PI"
 
 date: '2019-01-01'
 publishDate: '2023-10-27T20:06:17.906357Z'

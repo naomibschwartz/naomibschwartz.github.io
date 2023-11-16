@@ -4,7 +4,10 @@ title: 'Beyond leaf habit: generalities in plant function across 97 tropical dry
   
 authors:
 - German Vargas G
-- 'others + Naomi B Schwartz'
+- 'and many others + Naomi B Schwartz'
+author_notes:
+- 
+- "Current Lab PI"
 
 date: '2021-01-01'
 publishDate: '2023-10-27T20:06:17.927279Z'

@@ -8,13 +8,13 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Welcome to the <br> Schwartz Geospatial Ecology Lab!
+      - title: Welcome to the <br> Schwartz Geospatial Ecology Lab! <br><br> <center>![](icon-white.png)</center>
         align: center
         background:
           image:
             filename: Forest.png
             filters:
-              brightness: 0.7
+              brightness: 0.55
           position: right
           color: '#333'
       - title: Who We Are
@@ -69,5 +69,4 @@ sections:
     design:
       view: card
       columns: '1'
-      
 ---

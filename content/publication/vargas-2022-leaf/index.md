@@ -4,17 +4,10 @@ title: 'Leaf habit affects the distribution of drought sensitivity but not water
   
 authors:
 - German Vargas G
-- Norbert Kunert
-- William M Hammond
-- Z Carter Berry
-- Leland K Werden
-- Chris M Smith-Martin
-- Brett T Wolfe
-- Laura Toro
-- Ariadna Mondragón-Botero
-- Jesús N Pinto-Ledezma
-- Naomi B Schwartz
-- ' others'
+- 'and many others + Naomi B Schwartz'
+author_notes:
+- 
+- "Current Lab PI"
 
 date: '2022-01-01'
 publishDate: '2023-10-27T20:06:17.917185Z'

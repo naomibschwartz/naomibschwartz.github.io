@@ -4,7 +4,10 @@ title: 'Exploring the Social and Ecological Trade-offs in Tropical Reforestation
   
 authors:
 - Mahew Fagani
-- Naomi B Schwartz
+- Naomi B Schwartz*
+author_notes:
+- 
+- "Current Lab PI"
 
 date: '2019-01-01'
 publishDate: '2023-10-27T20:06:18.064688Z'

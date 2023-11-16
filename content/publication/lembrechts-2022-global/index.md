@@ -3,17 +3,10 @@ title: Global maps of soil temperature
 
 authors:
 - Jonas J Lembrechts
-- Johan van den Hoogen
-- Juha Aalto
-- Michael B Ashcroft
-- Pieter De Frenne
-- Julia Kemppinen
-- Martin Kopeckỳ
-- Miska Luoto
-- Ilya MD Maclean
-- Thomas W Crowther
-- Naomi B Schwartz
-- ' others'
+- 'and many others + Naomi B Schwartz'
+author_notes:
+- 
+- "Current Lab PI"
 
 date: '2022-01-01'
 publishDate: '2023-10-27T20:06:18.074115Z'

@@ -3,7 +3,7 @@
 title: Naomi B Schwartz
 
 # Full Name (for SEO)
-first_name: Naomi B
+first_name: Naomi
 last_name: Schwartz
 
 # Is this the primary user of the site?

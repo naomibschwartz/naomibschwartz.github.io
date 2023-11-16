@@ -5,9 +5,13 @@ title: Fishers’ response to temperature change reveals the importance of integ
 authors:
 - Kathryn J Fiorella
 - Elizabeth R Bageant
-- Naomi B Schwartz
+- Naomi B Schwartz*
 - Shakuntala H Thilsted
 - Christopher B Barrett
+author_notes:
+- 
+- 
+- "Current Lab PI"
 
 date: '2021-01-01'
 publishDate: '2023-10-27T20:06:17.952123Z'

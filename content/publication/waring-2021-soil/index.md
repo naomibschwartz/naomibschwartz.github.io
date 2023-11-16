@@ -3,17 +3,10 @@ title: 'Soil biogeochemistry across Central and South American tropical dry fore
 
 authors:
 - Bonnie G Waring
-- Mark E De Guzman
-- Dan V Du
-- Juan M Dupuy
-- Maga Gei
-- Jessica Gutknecht
-- Catherine Hulshof
-- Nicolas Jelinski
-- Andrew J Margenot
-- David Medvigy
-- Naomi B Schwartz
-- ' others'
+- 'and many others + Naomi B Schwartz'
+author_notes:
+- 
+- "Current Lab PI"
 
 date: '2021-01-01'
 publishDate: '2023-10-27T20:06:17.947147Z'
