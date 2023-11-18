@@ -23,6 +23,4 @@ abstract: Regrowth of tropical secondary forests following complete or nearly co
 
 url_source: https://www.science.org/doi/full/10.1126/sciadv.1501639
 url_pdf: 'https://www.science.org/doi/pdf/10.1126/sciadv.1501639'
-
-
 ---
