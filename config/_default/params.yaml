@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'naomibschwartz.github.io'
+    url: 'https://github.com/naomibschwartz/naomibschwartz.github.io'
     content_dir: content
     branch: main
   avatar:
