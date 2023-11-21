@@ -24,14 +24,14 @@ sections:
       background:
         text_color_light: true
         image:
-          filename: green-vegetation.jpeg
+          filename: TallGrass.png
           filters: 
-            brightness: 0.25
+            brightness: 0.4
           size: cover
           position: center
           parallax: true
       spacing:
-        padding: ["20px", "0", "20px", "0"]
+        padding: ["15px", "0", "15px", "0"]
         
   - block: contact
     content:
@@ -58,4 +58,6 @@ sections:
           captcha: false
     design:
       columns: '1'
+      spacing:
+        padding: ["15px", "0", "15px", "0"]
 ---
