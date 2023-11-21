@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Weecology. This work is licensed under {license}'
+    notice: '© {year}. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/naomibschwartz/naomibschwartz.github.io'
+    url: 'naomibschwartz.github.io'
     content_dir: content
     branch: main
   avatar:
