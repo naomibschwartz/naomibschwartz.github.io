@@ -25,7 +25,9 @@ organizations:
 bio: Kelsey is currently a WorkLearn student within the lab, where she will be helping on projects surrounding deforestation dynamics in a tropical forest-savanna ecosystem.
 
 interests:
-  - 
+  - Land-Atmosphere Climate Interactions
+  - Nature-Based Climate Solutions
+  - Geospatial Technologies
 
 education:
   courses:
