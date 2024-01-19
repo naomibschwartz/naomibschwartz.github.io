@@ -84,19 +84,6 @@ sections:
       columns: '1'
       spacing:
         padding: ["20px", "0", "30px", "0"]
-        
-  - block: markdown
-    id: active-projects-4
-    content:
-      title: Current Projects
-      text: |-
-        ## **Savanna-Forest Boundaries in a Seasonally Dry Tropical Landscape**
-        We are working to understand the ecological processes that maintain boundaries between forests and mesic savannas in seasonally dry tropical landscapes. Our work focuses on Southeast Asia, where deciduous dipterocarp savannas and dry evergreen forests form patchy landscape mosaics with abrupt transitions between vegetation types. We are using remote sensing, field data, and modeling to quantify the influence of climate variability and land use on fire regimes in this landscape and to identify key feedbacks between fire, soil conditions, and vegetation structure and function at boundaries between vegetation types.
-        {{< gallery album="savanna-forest" >}}
-    design:
-      columns: '1'
-      spacing:
-        padding: ["20px", "0", "20px", "0"]    
       
   - block: markdown
     id: past-projects
