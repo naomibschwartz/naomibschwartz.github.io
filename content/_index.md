@@ -24,7 +24,7 @@ sections:
           image:
             filename: TallGrass.png
             filters:
-              brightness: 0.7
+              brightness: 0.6
           position: center
           color: '#555'
       - title: Our Research
@@ -34,7 +34,7 @@ sections:
           image:
             filename: WilliamsLake_droneshot.png
             filters:
-              brightness: 0.5
+              brightness: 0.6
           position: center
           color: '#333'
         link:

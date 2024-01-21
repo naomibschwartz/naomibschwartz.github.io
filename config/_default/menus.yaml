@@ -17,7 +17,7 @@ main:
     url: post
     weight: 40
   - name: Lab Wiki
-    url: naomibschwartz.github.io/lab-wiki
+    url: https://naomibschwartz.github.io/lab-wiki
     weight: 50
   - name: Join Us!
     url: contact
