@@ -30,8 +30,8 @@ sections:
       title: Study Sites
       text: <iframe 
         width='100%' height='400px'
-        src="https://api.mapbox.com/styles/v1/kmcguire33/clp1hgkip00ct01r6h2ppg7ni.html?title=false&access_token=pk.eyJ1Ijoia21jZ3VpcmUzMyIsImEiOiJjbG5ucnp1em0wNzJrMnNwZ2ZyYTg2dTY4In0.TuyTQQVMp_TFZkj57EbkGg&zoomwheel=false#1.70/26/-12" title="schwartz-map-11.16.23"
-        title="schwartz-map" 
+        src="https://api.mapbox.com/styles/v1/kmcguire33/cls239hl9001501ptet5u8q80.html?title=false&access_token=pk.eyJ1Ijoia21jZ3VpcmUzMyIsImEiOiJjbG5ucnp1em0wNzJrMnNwZ2ZyYTg2dTY4In0.TuyTQQVMp_TFZkj57EbkGg&zoomwheel=false#1.70/26/-12"
+        title="schwartz-map-01-31-24" 
         style="border:none;">
         </iframe>
     design:
