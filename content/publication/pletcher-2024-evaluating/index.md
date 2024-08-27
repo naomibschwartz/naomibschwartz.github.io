@@ -4,7 +4,7 @@ title: Evaluating global vegetation products for application in heterogeneous fo
 authors:
 - Elise Pletcher
 - Sarah Smith-Tripp
-- Damian Evans 
+- Damian Evans
 - Naomi B Schwartz
 author_notes:
 - "MSc Student"
