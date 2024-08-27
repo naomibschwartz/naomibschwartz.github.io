@@ -7,7 +7,6 @@ authors:
 - A Carla Staver
 date: '2024-01-01'
 publishDate: '2024-08-27T19:38:02.276856Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Theoretical Ecology*'
 ---
