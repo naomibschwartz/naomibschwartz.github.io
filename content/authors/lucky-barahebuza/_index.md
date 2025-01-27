@@ -1,46 +1,46 @@
 ---
 # Display name
-title: Tony Zhang
+title: Lucky Barahebuza
 
 # Full name (for SEO)
-first_name: Tony
-last_name: Zhang
+first_name: Lucky 
+last_name: Barahebuza
 
 # Username (this should match the folder name)
 authors:
-  - tony-zhang
+  - lucky-barahebuza
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
   - name: University of British Columbia
-    url: 'https://geog.ubc.ca/profile/tony-zhang/'
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Tony's research uses remote sensing technology to study forest disturbance dynamics. His project explores new approaches to mapping fire refugia within BC forests, helping to better understand how these ecologically important areas affect forest regeneration post-fire.
+bio: 
 
 interests:
   - 
 
 education:
   courses:
-    - course: Bachelor of ...
-      institution: ...
-      year:
+    - course: MSc
+      institution: University of Connecticut
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 #  - icon: envelope
 #    icon_pack: fas
-#    link: 'mailto:georgepf@student.ubc.ca'
+#    link: 'mailto:luckyba1@student.ubc.ca'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -54,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Current Lab Members
 ---
 
-Tony is interested in using remote sensing technology to study forest disturbance dynamics, combining his GIS background with an interest in native plants. His project explores new approaches to mapping fire refugia within BC forests, to better understand how these ecologically important areas affect forest regeneration after fires. Tony is also part of the Geography department at Langara College where he works as a lab instructor. Some of his hobbies include reading historical fiction, making cheesecakes, and growing colourful vegetables in his garden.
+Lucky's research focuses on the impact of anthropogenic activities on the regeneration and spatial structure of tropical and temperate forest ecosystems and the implications for key ecosystem services. Before beginning his doctoral studies, Lucky earned a master's degree in Ecology and Evolutionary Biology from the University of Connecticut, USA. As a fun fact, Lucky enjoys the outdoors, mainly hiking, running, and socializing with family and friends.

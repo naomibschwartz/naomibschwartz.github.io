@@ -60,7 +60,7 @@ email: 'kmcgu@student.ubc.ca'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Lab Members
+  - Alumni
 ---
 
-Kelsey is currently a B.Sc student studying Geographical Sciences, with concentrations in Climatology and Geographic Information Systems. Within the lab, she will work on trying to detect whether deforestation is happening disproportionately in a certain ecosystem within the tropical forest-savanna biome. She hopes in later years to conduct more research on land-atmosphere exchanges, specifically around the carbon cycle, and find ways to incorporate different geospatial technologies to help analyse and visualise it. Outside of the lab, she enjoys exploring Vancouver, reading, and listening to live music.
+Kelsey was a B.Sc student in the lab. She conducted fieldwork in Cambodia where she measured soil carbon and fine-root biomass across forest savanna boundaries. Kelsey is currently a MSc student in the Kuhn lab at UBC Geography.

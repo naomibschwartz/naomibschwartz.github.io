@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Tony Zhang
+title: Sandra Inusah
 
 # Full name (for SEO)
-first_name: Tony
-last_name: Zhang
+first_name: Sandra
+last_name: Inusah
 
 # Username (this should match the folder name)
 authors:
-  - tony-zhang
+  - sandra-inusah
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,28 +19,28 @@ role: MSc Student
 # Organizations/Affiliations
 organizations:
   - name: University of British Columbia
-    url: 'https://geog.ubc.ca/profile/tony-zhang/'
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Tony's research uses remote sensing technology to study forest disturbance dynamics. His project explores new approaches to mapping fire refugia within BC forests, helping to better understand how these ecologically important areas affect forest regeneration post-fire.
+bio: Mia's research ...
 
 interests:
   - 
 
 education:
   courses:
-    - course: Bachelor of ...
-      institution: ...
-      year:
+    - course: BSc. Natural Resources Management
+      institution: Kwame Nkrumah University of Science and Technology
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 #  - icon: envelope
 #    icon_pack: fas
-#    link: 'mailto:georgepf@student.ubc.ca'
+#    link: 'mailto:jg1121@student.ubc.ca'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -54,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Current Lab Members
 ---
 
-Tony is interested in using remote sensing technology to study forest disturbance dynamics, combining his GIS background with an interest in native plants. His project explores new approaches to mapping fire refugia within BC forests, to better understand how these ecologically important areas affect forest regeneration after fires. Tony is also part of the Geography department at Langara College where he works as a lab instructor. Some of his hobbies include reading historical fiction, making cheesecakes, and growing colourful vegetables in his garden.
+In the course of Sandra’s studies, she has cultivated a keen interest in land cover changes, human-environment interactions, and the application of geospatial and machine learning technologies in assessing landscape structural changes. Her goal is to incorporate these technologies into research projects to enhance the understanding of landscape-level transformations and identify the key drivers behind them. She enjoys being indoors, watching movies, listening to music, and cooking.

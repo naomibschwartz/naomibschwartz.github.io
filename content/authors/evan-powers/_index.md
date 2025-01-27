@@ -53,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Lab Members
+  - Alumni
 ---
 
-Evan is a 4th year Geographical Sciences undergraduate student. He is interested in using remote sensing to aid in regeneration and conservation strategies. Within the lab, Evan is currently conducting a thesis which focuses on using Google Earth Engine to quantify recovery methodologies for deforested Brazilian Amazon. Originally, Evan is from Southern Indiana and now spends time with his family in New Mexico. In his free time, Evan enjoys to play sports and to experience Vancouver’s outdoors.
+Evan is a 4th year Geographical Sciences undergraduate student. He is interested in using remote sensing to aid in regeneration and conservation strategies. Within the lab, Evan is currently conducting a thesis which focuses on using Google Earth Engine to quantify recovery methodologies for deforested Brazilian Amazon. Originally, Evan is from Southern Indiana and now spends time with his family in New Mexico. In his free time, Evan enjoys to play sports and to experience Vancouver's outdoors.
