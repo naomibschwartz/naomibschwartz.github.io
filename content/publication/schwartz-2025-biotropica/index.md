@@ -22,8 +22,7 @@ author notes:
 - "Lab graduate student"
 date: '2025-01-01'
 publishDate: '2025-02-08T00:53:58.416134Z'
-publication_types:
-- article-journal
+publication_types: ['2']
 publication: '*Biotropica*'
 doi: https://doi.org/10.1111/btp.70000
 abstract: ABSTRACT In the seasonally dry landscapes of continental Southeast Asia,
@@ -56,7 +55,6 @@ tags:
 - functional traits
 - savanna
 - Southeast Asia
-links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.70000
+
+url_source: https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.70000
 ---
