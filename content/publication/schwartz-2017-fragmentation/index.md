@@ -11,7 +11,7 @@ authors:
 - Victor Gutiérrez-Vélez
 - Miguel A Pinedo-Vasquez
 author_notes:
-- "Current Lab PI"
+- "Lab PI"
 
 date: '2017-01-01'
 publishDate: '2023-10-27T20:06:17.961792Z'
