@@ -1,0 +1,157 @@
+---
+title: 'Open letter: There are more than just trees and forests to be conserved and
+  restored'
+authors:
+- Natashi Pilon
+- Franciele Peixoto
+- Rafael S. Oliveira
+- Ana Carolina C. Oliveira
+- Julio Alquéres
+- Swanni Alvarado
+- Jose G. M. Angelo
+- Sally Archibald
+- Mohammed Armani
+- Ludwig Baldaszti
+- Sébastien Barot
+- Fernanda de V. Barros
+- Mario Barroso
+- Alessandra Bassani
+- Mariska te Beest
+- Juan Benavides-Tocarruncho
+- Lorena M. Benitez
+- Paulo N. Bernardino
+- William J. Bond
+- Bowy den Braber
+- Nina Buchmann
+- Elise Buisson
+- Bruna H. Campos
+- Claudia Campos
+- Josep Canadell
+- Tristan Charles-Dominique
+- Rachel Cohen
+- Anya Courtenay
+- Joris P. G. M. Cromsigt
+- Gabriella Damasceno
+- Vinicius L. Dantas
+- Balázs Deák
+- Michele Dechoum
+- Adam J. M. Devenish
+- Milton H. Diaz-Toribio
+- Brice Yannick Djiofack
+- Jason E. Donaldson
+- Larissa Doria
+- Natalie Dudinszky
+- Lucas Durães
+- Susan E. Eshelman
+- Marcos de Fialho
+- Manfred Finckh
+- Jennifer L. Funk
+- Rachael Gallagher
+- T. Ganesh
+- Jacques Gignoux
+- Luiz Gustavo Gonçalves
+- Michelle Greve
+- Daniel Mark Griffith
+- Natalia Guerin
+- Kenny Helsen
+- Gareth P. Hempson
+- Ankila Hiremath
+- William A. Hoffmann
+- Sheila M. Holmes
+- Lindsay B. Hutley
+- Debbie Jewitt
+- Arjun Kannan
+- Marie Noelle Keijzer
+- David A. Keith
+- Sarala Khaling
+- Kevin Kirkman
+- Rosana M. Kolb
+- Foundiéré Koné
+- Alessandra R. Kozovits
+- Christian Kull
+- Frank van Langevelde
+- R. Sedricke Lapuz
+- Jean-Christophe Lata
+- Soizig Le Stradic
+- Caroline E. R. Lehmann
+- Naíssa Luz
+- M. D. Madhusudan
+- Soro Nounfro Madjima
+- Iravatee Majgaonkar
+- Onildo J. Marini-Filho
+- Aklilu Negussie Mekuria
+- Paulina Meller
+- Máximo M. Costa
+- Raoni Merisse
+- Cássia B. R. Munhoz
+- Brett P. Murphy
+- Leena Naftal
+- Olinirina Prisca Nanjarisoa
+- Aya B. N'Dri
+- Ashish N. Nerlekar
+- Aristides S. G. Neto
+- Jesse B. Nippert
+- Sindiso Nkuna
+- Reed Noss
+- Imma Oliveras Menor
+- Colin P. Osborne
+- Gerhard E. Overbeck
+- Giovanna Palazzi
+- Catherine Parr
+- Juli G. Pausas
+- R. Toby Pennington
+- Valério D. Pillar
+- Francis E. Putz
+- Fitiavana Rasaminirina
+- Jayashree Ratnam
+- Diego Raymundo
+- Ana Ribeiro
+- Jess Rickenback
+- Lucy Rowland
+- Alexandre Bonesso Sampaio
+- Mahesh Sankaran
+- Naomi B. Schwartz
+- Seshadri Kadaba Shamanna
+- Stefan Siebert
+- Frances Siebert
+- Desireé Cristiane Barbosa Silva
+- Suelma Ribeiro-Silva
+- Domingos Fortunato P. F. Silva
+- Julliene S. G. Monteiro Silva
+- Fernando A. O. Silveira
+- Kimberley Simpson
+- A. Carla Staver
+- Bethina Stein
+- Nicola Stevens
+- Chris Still
+- Caroline A. E. Strömberg
+- Rima Mekdaschi Studer
+- Anthony Swemmer
+- Kyle Warwick Tomlinson
+- Orsolya Valkó
+- Renato Vanderlei
+- Joseph W. Veldman
+- Larissa Verona
+- Susanne Vetter
+- Ricardo A. G. Viani
+- Maria S. Vorontsova
+- Jakub D. Wieczorkowski
+- Benjamin Wigley
+- Amy Zanne
+- Giselda Durigan
+date: '2025-01-01'
+publishDate: '2026-06-09T22:57:25.682259Z'
+publication_types:
+- article-journal
+publication: '*PLANTS, PEOPLE, PLANET*'
+doi: https://doi.org/10.1002/ppp3.10635
+tags:
+- biodiversity crises
+- conservation
+- COP 16
+- ecological restoration
+- open ecosystems
+links:
+- name: URL
+  url: https://nph.onlinelibrary.wiley.com/doi/abs/10.1002/ppp3.10635
+---
